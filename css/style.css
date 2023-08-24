@@ -1,0 +1,55 @@
+.botones {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center; */
+  /* align-items: center; */
+}
+.contenedor {
+  border: 2px solid blue;
+ 
+  display: flex;
+}
+.resultado {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+}
+
+.usuario {
+  width: 23%;
+  margin-right: 20px;
+  
+}
+.Maquina {
+  width: 23%;
+
+}
+.imgBoton{
+  width: 70px;
+
+}
+.center {
+  text-align: center;
+}
+.imagen {
+  width: 100%;
+}
+img{
+  width: 20%;
+}
+button {
+  cursor: pointer;
+  margin: 25px;
+  height: 80px;
+  text-decoration: none;
+  border: none;
+
+}
+
+.puntajes{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
